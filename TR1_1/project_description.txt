@@ -1,0 +1,11 @@
+Authors: Zhouyang Hong, Gesualdo Sinatra
+----------------------------------------
+0-General Informations
+
+First assignment of the course “Advanced robot programming”. We were asked to code a program which allows the user to control the motion of the hoist  without overcome upper and lower bound of the x and z axis. 
+Two different shells are opened when the “./run” is executed, they allow the user to interact with the program and display on the screen the position of the hoist. Every process tell the watchdog during each operations that they are still active. Otherwise, reset process begins. Emergency buttons in inspection konsole are triggered through signals, every other way of communication are through both named and unnamed pipes. 
+
+
+
+
+

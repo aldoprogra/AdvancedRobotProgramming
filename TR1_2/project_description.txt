@@ -1,0 +1,14 @@
+Authors: Zhouyang Hong, Gesualdo Sinatra
+----------------------------------------
+0-General Informations
+
+Second assignment of the course “Advanced robot programming”. We were asked to code a program which compare timing on trasferring a number of bytes, decided by the user, in different ways: named pipe, unnamed pipe, socket and shared memory.
+One shell is opened when the “./run” is executed (master) , it interacts with the user and display on the screen some choices to make.
+Every istance has two processes, one producer and one consumer. The producer fills an array of random data then, he will send them to the consumer which will compute the time and print it on the screen.
+
+
+
+
+
+
+
