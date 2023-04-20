@@ -1,5 +1,10 @@
 # THIRD PROJECT
 
+In the video is shown drones online moving, they communicate velocity to master that will accept or neglet next position.
+
+https://user-images.githubusercontent.com/80604899/233508684-d4d7d653-6831-4d5a-807d-a790f7276e97.MP4
+
+
 ## Description
 The program developed by a super-group is composed by 6 processes:
 (a) 5 drones exploring autonomously a rectangular area
